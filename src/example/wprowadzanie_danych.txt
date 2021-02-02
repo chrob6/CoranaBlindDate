@@ -1,0 +1,203 @@
+user:
+
+{
+    "email": "marcin@chrobson.com",
+    "password": "haslooo12345",
+    "first_name":"Marcin",
+    "last_name": "Chrobak",
+    "city": "Czechowice",
+    "age": 22,
+    "height": 171,
+    "gender": "Male",
+    "gender_interest": "Female",
+    "eyes_color": "Amber",
+    "hair_color": "Dark Blonde"
+}
+
+questions: 
+{
+    "content": "Jak organizujesz swoja prace?",
+    "a_answer": "duzo wczesniej",
+    "b_answer": "wczesniej",
+    "c_answer": "nie organizuje, dzialam",
+    "d_answer": "moja praca to jeden, wieki balagan"
+}
+
+{
+    "content": "Jakie srodowisko pracy preferujesz?",
+    "a_answer": "ciche i uporzadkowane",
+    "b_answer": "nie moze byc cicho",
+    "c_answer": "obojetne, potrafie sie skupic wszedzie",
+    "d_answer": "nie moge miec balaganu"
+}
+
+{
+    "content": "Ktorej z ponizszych czynnosci nie lubisz najbardziej?",
+    "a_answer": "sprzatanie",
+    "b_answer": "mycie naczyn",
+    "c_answer": "uczenie sie",
+    "d_answer": "tanczenie"
+}
+
+{
+    "content": "Ktore zwierze z ponizszych w najlepszy sposob symbolizuje Twoja osobowosc?",
+    "a_answer": "lew",
+    "b_answer": "pies",
+    "c_answer": "sarna",
+    "d_answer": "pantera"
+}
+
+{
+    "content": "Jakiego wspolpracownika preferujesz?",
+    "a_answer": "inteligentny",
+    "b_answer": "zabawny",
+    "c_answer": "pracoholik",
+    "d_answer": "cichy"
+}
+
+{
+    "content": "Co oznacza wolnosc?",
+    "a_answer": "brak moralnych zmartwien",
+    "b_answer": "brak pracy",
+    "c_answer": "brak zobowiazan",
+    "d_answer": "nieograniczone mozliwosci"
+}
+
+{
+    "content": "Kim chcialbys lub chcialabys byc przez jeden rok?",
+    "a_answer": "pilkarz",
+    "b_answer": "celebryta",
+    "c_answer": "kosmonauta",
+    "d_answer": "lekarz"
+}
+
+{
+    "content": "Z kim chcialbys sie zamienic?",
+    "a_answer": "pilkarz",
+    "b_answer": "celebryta",
+    "c_answer": "kosmonauta",
+    "d_answer": "lekarz"
+}
+
+{
+    "content": "W czasie rozmowy czujesz sie najbardziej komfortowo kiedy rozmawiasz z?",
+    "a_answer": "ze wszystkimi czuje sie swobodnie",
+    "b_answer": "kims starszym (kolega/kolezanka)",
+    "c_answer": "kims w moim wieku lub mlodszym (kolega/kolezanka)",
+    "d_answer": "musi byc bliski znajomy"
+}
+
+{
+    "content": "Kiedy jestes na randce, zwykle?",
+    "a_answer": "jestes cichy i podchodzisz z dystansem dopoki kogos nie poznasz",
+    "b_answer": "z latwoscia rozmawiasz na kazdy temat",
+    "c_answer": "wystarczy Ci 5 minut, zeby sie rozluznic",
+    "d_answer": "nigdy nie czuje sie swobodnie na randkach"
+}
+
+{
+    "content": "Wolisz?",
+    "a_answer": "czytac instrukcje krok po kroku",
+    "b_answer": "samemu zrozumiec jak cos dziala",
+    "c_answer": "zaczynam samemu, a jak nie wychodzi to siegam po instrukcje",
+    "d_answer": "potrzebuje tylko wyobrazni i mlotka"
+}
+
+{
+    "content": "Kiedy czekasz w kolejce przez dluzszy czas?",
+    "a_answer": "staje sie spiety, szczegolnie gdy jestem w pospiechu",
+    "b_answer": "bardzo sie denerwuje",
+    "c_answer": "czekam spokojnie",
+    "d_answer": "duzo rozmyslam o innych rzeczach"
+}
+
+{
+    "content": "Kiedy masz cel to?",
+    "a_answer": "odrazu stanowczo daze do jego osiagniecia",
+    "b_answer": "musze wszystko zaplanowac",
+    "c_answer": "czekam na odpowiednia okazje",
+    "d_answer": "nic nie robie, bo i tak sie zaraz zmieni"
+}
+
+{
+    "content": "Kiedy osiagne jakis swoj cel to?",
+    "a_answer": "odrazu mam nowy",
+    "b_answer": "jestem zadowolony z siebie i ciesze sie chwila",
+    "c_answer": "czuje ze moglem to zrobic lepiej",
+    "d_answer": "to tylko kolejny krok w moim zyciu"
+}
+
+{
+    "content": "Inni ludzie są?",
+    "a_answer": "rzadko zaskakujacy",
+    "b_answer": "czesto denerwujacy",
+    "c_answer": "w znaczacej wiekszosci bardzo mili",
+    "d_answer": "nie mam opinii"
+}
+
+{
+    "content": "Gdy ktos mi przerywa?",
+    "a_answer": "trace ciag myslowy",
+    "b_answer": "denerwuje sie",
+    "c_answer": "nie chce juz kontynuowac",
+    "d_answer": "nie zwracam na to uwagi"
+}
+
+{
+    "content": "Podczas imprezy?",
+    "a_answer": "zwykle stoje sam",
+    "b_answer": "jestem jej centrum",
+    "c_answer": "caly czas tancze",
+    "d_answer": "nie chodze na imprezy"
+}
+
+{
+    "content": "Najlepiej czuje sie w?",
+    "a_answer": "domu",
+    "b_answer": "szkole lub uczelni",
+    "c_answer": "miejscu gdzie moge uprawiac moje hobby",
+    "d_answer": "wszedzie czuje sie komfortowo"
+}
+
+
+
+preferences:
+{
+    "age": 22,
+    "height": 182,
+    "eyes_color": "Blue",
+    "hair_color": "Blonde"
+}
+
+{
+    "age": 23,
+    "height": 182,
+    "eyes_color": "Brown",
+    "hair_color": "Dark brown"
+}
+
+answers:
+{
+    "question_id": "1",
+    "user_id": "1",
+    "user_choice": "a"
+}
+
+{
+    "question_id": "2",
+    "user_id": "1",
+    "user_choice": "c"
+}
+
+{
+    "question_id": "1",
+    "user_id": "2",
+    "user_choice": "d"
+}
+
+{
+    "question_id": "2",
+    "user_id": "2",
+    "user_choice": "b"
+}
+
